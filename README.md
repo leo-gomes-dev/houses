@@ -1,8 +1,6 @@
 # Dev House 🏠
 
-[![NPM Version](https://shields.io)](https://npmjs.com)
-[![TailwindCSS](https://shields.io)](https://tailwindcss.com)
-[![JavaScript](https://shields.io)](https://mozilla.org)
+[![NPM Version](https://img.shields.io/npm/v/seu-pacote?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 O **Dev House** é uma plataforma imobiliária moderna desenvolvida com foco em performance, responsividade e código limpo. O projeto simula uma listagem de imóveis na região do Espírito Santo (Vitória, Guarapari, Vila Velha, Serra) e foi planejado como uma aplicação de demonstração técnica para compor meu portfólio de desenvolvimento Front-End.
 
